@@ -1,2 +1,2 @@
 # dio-venilton
-Desafio de Projeto sobre Git/Gitthub
+Desafio de Projeto sobre Git/Github
